@@ -1,0 +1,19 @@
+[
+{
+	"name": "Hitesh",
+	"email": "hitesh@hiteshchoudhary.com",
+	"contact": "9999999999",
+	"courseCount": 4,
+	"isVerified": true
+},
+{
+	"name": "Mark",
+	"email": "mark@example.com",
+	"contact": "9999999888",
+	"courseCount": 2,
+	"isVerified": false
+}
+]
+
+
+// db.course.insertOne({title:"Android P",price:10.2,faqs:{q1:"asnwer1",q2:"answer2",q3:"answer3"}})

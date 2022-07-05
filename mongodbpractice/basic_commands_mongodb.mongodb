@@ -1,0 +1,11 @@
+use ('youtube')
+
+db.user.find().pretty()
+
+
+db.user.deleteOne({name:"krishna"})
+
+db.user.find()
+
+
+db.dropDatabase()
